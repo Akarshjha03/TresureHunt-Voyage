@@ -1,6 +1,4 @@
-# 🏴‍☠️ Voyage Game: Captain's Treasure Hunt 🏝️
-
-## ⚓ Welcome to the Voyage Game!
+# 🏝️ Voyage Game: Captain's Treasure Hunt ⚓🏴‍☠️
 
 Embark on an epic adventure as a daring pirate captain seeking hidden treasures across uncharted waters. Sail in different directions, gather treasures, and avoid running out of fuel in this thrilling treasure-hunting voyage! Will you uncover the ultimate pirate fortune?
 
