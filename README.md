@@ -5,7 +5,6 @@ Embark on an epic adventure as a daring pirate captain seeking hidden treasures 
 ---
 
 ## 🗺️ Storyline
-
 You are Captain of the legendary pirate ship *The Golden Wave*. Driven by the tales of an ancient treasure hidden beyond the horizon, you and your crew set sail into mysterious seas. Navigate through the wild ocean winds and unpredictable weather as you search for priceless treasures. But beware — resources are limited, and every decision counts!
 
 Are you ready to steer your ship toward victory or vanish into the sea forever?
