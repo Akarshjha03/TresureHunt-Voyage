@@ -5,6 +5,7 @@ Embark on an epic adventure as a daring pirate captain seeking hidden treasures 
 ---
 
 ## 🗺️ Storyline
+
 You are Captain of the legendary pirate ship *The Golden Wave*. Driven by the tales of an ancient treasure hidden beyond the horizon, you and your crew set sail into mysterious seas. Navigate through the wild ocean winds and unpredictable weather as you search for priceless treasures. But beware — resources are limited, and every decision counts!
 
 Are you ready to steer your ship toward victory or vanish into the sea forever?
@@ -12,6 +13,7 @@ Are you ready to steer your ship toward victory or vanish into the sea forever?
 ---
 
 ## 🛥️ Gameplay Instructions
+
 - Start your voyage with **5 units of fuel**.
 - Click the directional buttons to sail **East, West, North, or South**.
 - Random chance may reward you with treasures each time you sail.
