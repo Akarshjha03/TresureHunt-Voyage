@@ -12,7 +12,6 @@ Are you ready to steer your ship toward victory or vanish into the sea forever?
 ---
 
 ## 🛥️ Gameplay Instructions
-
 - Start your voyage with **5 units of fuel**.
 - Click the directional buttons to sail **East, West, North, or South**.
 - Random chance may reward you with treasures each time you sail.
